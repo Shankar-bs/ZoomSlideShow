@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		903840331C9929CA00D42B64 /* ZummSlide.m in Sources */ = {isa = PBXBuildFile; fileRef = 903840321C9929CA00D42B64 /* ZummSlide.m */; };
 		903AF46B1C96A49E007FAA13 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 903AF46A1C96A49E007FAA13 /* main.m */; };
 		903AF46E1C96A49E007FAA13 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 903AF46D1C96A49E007FAA13 /* AppDelegate.m */; };
 		903AF4711C96A49E007FAA13 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 903AF4701C96A49E007FAA13 /* ViewController.m */; };
@@ -50,8 +49,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		903840311C9929CA00D42B64 /* ZummSlide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZummSlide.h; path = ../ZummSlide.h; sourceTree = "<group>"; };
-		903840321C9929CA00D42B64 /* ZummSlide.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ZummSlide.m; path = ../ZummSlide.m; sourceTree = "<group>"; };
 		903AF4661C96A49E007FAA13 /* MoviesSlide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoviesSlide.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		903AF46A1C96A49E007FAA13 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		903AF46C1C96A49E007FAA13 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,15 +107,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8A531C371CA44BA300F696B5 /* ZommSlide */ = {
-			isa = PBXGroup;
-			children = (
-				903840311C9929CA00D42B64 /* ZummSlide.h */,
-				903840321C9929CA00D42B64 /* ZummSlide.m */,
-			);
-			path = ZommSlide;
-			sourceTree = "<group>";
-		};
 		903AF45D1C96A49E007FAA13 = {
 			isa = PBXGroup;
 			children = (
@@ -138,7 +126,6 @@
 		903AF4681C96A49E007FAA13 /* TranslateZoomSlideShow */ = {
 			isa = PBXGroup;
 			children = (
-				8A531C371CA44BA300F696B5 /* ZommSlide */,
 				903AF4A51C96F91C007FAA13 /* quantum */,
 				903AF4B41C96FA90007FAA13 /* avatar */,
 				903AF4C01C96FC49007FAA13 /* bolt */,
@@ -336,7 +323,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				903AF4A41C96F07B007FAA13 /* Movie.m in Sources */,
-				903840331C9929CA00D42B64 /* ZummSlide.m in Sources */,
 				903AF4771C96A49F007FAA13 /* TranslateZoomSlideShow.xcdatamodeld in Sources */,
 				903AF4711C96A49E007FAA13 /* ViewController.m in Sources */,
 				903AF46E1C96A49E007FAA13 /* AppDelegate.m in Sources */,

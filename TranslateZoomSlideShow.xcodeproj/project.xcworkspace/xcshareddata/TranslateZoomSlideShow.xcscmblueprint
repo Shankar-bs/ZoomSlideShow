@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0B163A00581F8DF8BA0B5D028BA1DF962221CB41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B163A00581F8DF8BA0B5D028BA1DF962221CB41" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "57B99AE6-857F-4874-B175-5B01E3C8FAF6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B163A00581F8DF8BA0B5D028BA1DF962221CB41" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TranslateZoomSlideShow",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TranslateZoomSlideShow.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Shankar-bs\/ZoomSlideShow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B163A00581F8DF8BA0B5D028BA1DF962221CB41"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Shankar-bs\/ZoomSlideShow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B163A00581F8DF8BA0B5D028BA1DF962221CB41"
+    }
+  ]
+}
