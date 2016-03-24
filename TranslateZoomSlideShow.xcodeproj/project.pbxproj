@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A531C3D1CA48BFC00F696B5 /* ZummSlide.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A531C3C1CA48BFC00F696B5 /* ZummSlide.m */; };
 		903AF46B1C96A49E007FAA13 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 903AF46A1C96A49E007FAA13 /* main.m */; };
 		903AF46E1C96A49E007FAA13 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 903AF46D1C96A49E007FAA13 /* AppDelegate.m */; };
 		903AF4711C96A49E007FAA13 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 903AF4701C96A49E007FAA13 /* ViewController.m */; };
@@ -49,6 +50,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A531C3B1CA48BFC00F696B5 /* ZummSlide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZummSlide.h; sourceTree = "<group>"; };
+		8A531C3C1CA48BFC00F696B5 /* ZummSlide.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZummSlide.m; sourceTree = "<group>"; };
 		903AF4661C96A49E007FAA13 /* MoviesSlide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoviesSlide.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		903AF46A1C96A49E007FAA13 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		903AF46C1C96A49E007FAA13 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -139,6 +142,8 @@
 				903AF4841C96B338007FAA13 /* MovieDetailController.m */,
 				903AF4A21C96F07B007FAA13 /* Movie.h */,
 				903AF4A31C96F07B007FAA13 /* Movie.m */,
+				8A531C3B1CA48BFC00F696B5 /* ZummSlide.h */,
+				8A531C3C1CA48BFC00F696B5 /* ZummSlide.m */,
 				903AF4721C96A49F007FAA13 /* Main.storyboard */,
 				903AF4781C96A49F007FAA13 /* Assets.xcassets */,
 				903AF47A1C96A49F007FAA13 /* LaunchScreen.storyboard */,
@@ -323,6 +328,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				903AF4A41C96F07B007FAA13 /* Movie.m in Sources */,
+				8A531C3D1CA48BFC00F696B5 /* ZummSlide.m in Sources */,
 				903AF4771C96A49F007FAA13 /* TranslateZoomSlideShow.xcdatamodeld in Sources */,
 				903AF4711C96A49E007FAA13 /* ViewController.m in Sources */,
 				903AF46E1C96A49E007FAA13 /* AppDelegate.m in Sources */,
