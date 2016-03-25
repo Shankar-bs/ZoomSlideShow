@@ -9,6 +9,6 @@ To use ZoomSlideshow just add ZummSlide.h and ZummSlide.m files to your project 
   - (void)showAlert; 
 
 
-the sample demo of the project
+the sample demo of the project and also for explanation visit hear http://slicode.com/zoom-in-and-zoom-out-slide-show/
 
 ![alt tag](https://github.com/Shankar-bs/ZoomSlideShow/blob/master/DemoZoomSlide.gif)
